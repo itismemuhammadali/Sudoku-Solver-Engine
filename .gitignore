@@ -1,0 +1,17 @@
+# Ignore Visual Studio Code settings
+.vscode/
+
+# Ignore executable files
+*.exe
+
+# Ignore object files
+*.obj
+
+# Ignore program database files
+*.pdb
+
+# Ignore incremental linking files
+*.ilk
+
+# Ignore temporary files
+*.tmp
