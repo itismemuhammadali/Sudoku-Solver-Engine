@@ -1,5 +1,9 @@
 # 🧩 Sudoku Solver Engine
 
+<p align="center">
+  <img src="assets/branding/logo.jpg" alt="Sudoku Solver Engine Logo" width="180" style="border-radius: 24px; box-shadow: 0 8px 32px rgba(99, 102, 241, 0.35);" />
+</p>
+
 > **High-Performance C++ Algorithmic Sudoku Engine** featuring a **3D Candidate Tensor Representation (`[9][9][10]`)**, deterministic constraint satisfaction, forward checking, and candidate elimination.
 
 [![Language](https://img.shields.io/badge/Language-C%2B%2B17-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
